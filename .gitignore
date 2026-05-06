@@ -1,0 +1,22 @@
+# Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+.mvn/
+
+# Node
+node_modules/
+dist/
+build/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.metadata/
+bin/
